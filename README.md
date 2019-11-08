@@ -1,3 +1,6 @@
+
+# https://blog.csdn.net/lb245557472/article/details/84068519
+
 # ![Awesome Adb](./assets/title.png)
 
 ADB，即 [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html)，它是 Android 开发/测试人员不可替代的强大工具，也是 Android 设备玩家的好玩具。
